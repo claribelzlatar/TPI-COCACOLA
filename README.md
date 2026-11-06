@@ -32,3 +32,21 @@ Si en el depósito no estuviera este sistema, podría haber faltantes de stock y
 
 -Meta: menos de 5 segundos.
 
+## Declaración de uso de IA
+
+**Herramientas que usé:** Google Gemini (entregas 1 a 3), Claude (entrega 4) y Copilot de GitHub (una sugerencia de mensaje de commit). No usé ChatGPT.
+
+**En las entregas 1 a 3:** usé Gemini para producir prácticamente todo el contenido: la redacción, el FODA, el Gantt, el organigrama, el diccionario de datos y los indicadores.
+
+**En esta entrega (4):**
+- Usé Claude para que me explicara la consigna y me guiara paso a paso en GitHub, el tablero y draw.io.
+- Le pedí cosas como: qué es BPMN, cómo se dibuja en draw.io, cómo crear una rama y un Pull Request.
+- Claude me ayudó con la ortografía, con la redacción de dos historias de usuario y con la fórmula del indicador de precisión.
+- Copilot de GitHub me sugirió un mensaje de commit en inglés y lo cambié por uno propio.
+
+**Qué hice yo en esta reentrega:**
+- Creé el repositorio, el README, la rama, los commits y el Pull Request (revisado por un compañero) y armé el tablero.
+- Dibujé el BPMN en draw.io y agregué la excepción del stock que no coincide.
+- Escribí la historia de ventas y las ideas de las otras dos.
+- Expliqué con mis palabras para qué sirve cada indicador.
+- Corregí el tablero, que tenía tarjetas en estados que no eran reales, y un error mío (había escrito que Compras vende, y quien vende es Ventas).
